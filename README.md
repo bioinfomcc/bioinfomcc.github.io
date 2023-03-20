@@ -1,1 +1,1 @@
-# bioinfomcc.github.io
+# bioinformatics core at mcc
